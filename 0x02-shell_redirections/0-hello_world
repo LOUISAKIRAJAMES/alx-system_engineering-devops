@@ -1,2 +1,2 @@
 #!/bin/bash
-wc "hello world"
+grep "hello world"
