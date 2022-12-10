@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq
+find . -type f -name "*.js" -delete
